@@ -1,0 +1,3 @@
+# CAToneFileGenerator
+
+## Generates a tone
